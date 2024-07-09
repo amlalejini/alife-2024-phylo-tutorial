@@ -26,12 +26,17 @@ Outline:
 - Intro to phylogenies and lineages
 - What can phylogenies do for you?
 - Guided coding challenges (incorporating phylogeny tracking into an ALife system + saving and analyzing phylogeny data)
+- Discuss potential for those interested in collaborating on a workshop report
 
 ## When & Where
 
 This tutorial session is organized as part of the [2024 Conference on Artificial Life](https://2024.alife.org/index.html), held July 22-26 in Copenhagen, Denmark.
 
 Time and room assignment can be found in the conference program: <https://2024.alife.org/program.html>.
+
+## Workshop report
+
+If a critical mass of participants are interested, we will organize a workshop report reviewing how Phylogenies are currently used by participants' ALife systems as well as open questions / future challenges for phylogenetic analysis in ALife.
 
 ## Organizers
 

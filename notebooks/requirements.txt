@@ -14,8 +14,9 @@ nest-asyncio==1.6.0
 packaging==24.1
 parso==0.8.4
 pexpect==4.9.0
-phylotrackpy @ git+https://github.com/emilydolson/phylotrackpy@e99d34b2221cafa5f3b9a90de0aa1f823a353f72
+phylotrackpy==0.2.2
 platformdirs==4.2.2
+polars==1.1.0
 prompt_toolkit==3.0.47
 psutil==6.0.0
 ptyprocess==0.7.0

@@ -7,6 +7,7 @@ Artificial Life research papers that review / use phylogenetic analyses.
 - Moreno, M. A., Rodriguez-Papa, S. & Dolson, E. Ecology, Spatial Structure, and Selection Pressure Induce Strong Signatures in Phylogenetic Structure. Preprint at https://doi.org/10.48550/ARXIV.2405.07245 (2024).
 - Dolson, E., Lalejini, A., Jorgensen, S. & Ofria, C. Interpreting the Tape of Life: Ancestry-Based Analyses Provide Insights and Intuition about Evolutionary Dynamics. Artificial Life 26, 58–79 (2020).
 - Dolson, E. & Ofria, C. Visualizing the tape of life: exploring evolutionary history with virtual reality. in Proceedings of the Genetic and Evolutionary Computation Conference Companion 1553–1559 (ACM, Kyoto Japan, 2018). doi:10.1145/3205651.3208301.
+- Dolson, E. L., Vostinar, A. E., Wiser, M. J. & Ofria, C. The MODES Toolbox: Measurements of Open-Ended Dynamics in Evolving Systems. Artificial Life 25, 50–73 (2019).
 
 ## Software
 

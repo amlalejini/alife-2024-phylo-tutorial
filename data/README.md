@@ -1,1 +1,2 @@
 - `avida-phylogenies-by-treatment.csv.gz` is from <https://osf.io/x5a2d>
+  - Python: `import pandas as pd; df = pd.read_csv("https://github.com/amlalejini/alife-2024-phylo-tutorial/raw/main/data/avida-phylogenies-by-treatment.csv.gz", gzip=True)`

@@ -1,2 +1,5 @@
 - `avida-phylogenies-by-treatment.csv.gz` is from <https://osf.io/x5a2d>
-  - Python: `import pandas as pd; df = pd.read_csv("https://github.com/amlalejini/alife-2024-phylo-tutorial/raw/main/data/avida-phylogenies-by-treatment.csv.gz", gzip=True)`
+  - alife standard format <https://alife-data-standards.github.io/alife-data-standards/phylogeny.html>
+  - four phylogenies, from Avida experiments with vs. without ecological dynamics and spatial structure
+  - Python, download dataset: `import pandas as pd; df = pd.read_csv("https://github.com/amlalejini/alife-2024-phylo-tutorial/raw/main/data/avida-phylogenies-by-treatment.csv.gz", compression="gzip")`
+  - Python, split into example phylogenies (one per treatment): `for treatment, phylo in df.groupby("treatment"): print(treatment, phylo)`

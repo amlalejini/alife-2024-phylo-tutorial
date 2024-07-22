@@ -45,3 +45,9 @@ If a critical mass of participants are interested, we will organize a workshop r
 - [Alexander Lalejini](https://lalejini.com/), *Assistant Professor*, Grand Valley State University
 - [Jack Garbus](https://jarbus.net/), *Graduate student*, Brandeis University
 
+## Resources
+
+- [Slides](https://github.com/amlalejini/alife-2024-phylo-tutorial/blob/main/2023-alife-phylo-tutorial-slides.pdf)
+- Sample of ALife papers that use/review phylogenetic analysis: [papers.md](https://github.com/amlalejini/alife-2024-phylo-tutorial/blob/main/papers.md)
+- List of useful software packages for tracking phylogenies in ALife systems: [software.md](https://github.com/amlalejini/alife-2024-phylo-tutorial/blob/main/software.md)
+

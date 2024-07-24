@@ -36,7 +36,7 @@ Time and room assignment can be found in the conference program: <https://2024.a
 
 ### For online participants
 
-We can chat in Meeting Room Sigma (the room's zoom doesn't make for great interaction): <https://discord.com/channels/1123220946686316654/1263957778423349380>
+We can chat in Meeting Room Sigma on the ISAL discord server (the room's zoom doesn't make for great interaction): <https://discord.com/channels/1123220946686316654/1263957778423349380>
 
 ## Workshop report
 

@@ -34,6 +34,10 @@ This tutorial session is organized as part of the [2024 Conference on Artificial
 
 Time and room assignment can be found in the conference program: <https://2024.alife.org/program.html>.
 
+### For online participants
+
+We can chat in Meeting Room Sigma (the room's zoom doesn't make for great interaction): <https://discord.com/channels/1123220946686316654/1263957778423349380>
+
 ## Workshop report
 
 If a critical mass of participants are interested, we will organize a workshop report reviewing how Phylogenies are currently used by participants' ALife systems as well as open questions / future challenges for phylogenetic analysis in ALife.
